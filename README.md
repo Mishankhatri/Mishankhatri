@@ -5,10 +5,10 @@
 <p>
 Solution-driven Javascript/Frontend Developer adept at contributing to a highly
 collaborative work environment, finding solutions and determining customer
-satisfaction. Proven experience developing consumer-focused websites using
-HTML, CSS, JavaScript, React Js and Next JS. Built products for desktop web
-applications over 2+ years, meeting highest standards for web design, user
-experience, best practices and speed. Designed and developed web applications
+satisfaction. Proven experience developing consumer-focused application using
+HTML, CSS, JavaScript, React Js , React Native, and Next JS. Built products for desktop web
+applications over 3+ years, meeting highest standards for web design, user
+experience, best practices and speed. Designed and developed web/mobile applications
 across multiple APIs, third-party integrations and databases.
 <br/><br/></p>
 
